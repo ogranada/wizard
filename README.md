@@ -14,16 +14,27 @@ yarn serve
 ```
 yarn build
 ```
+### Project Structure
 
-### Run your unit tests
-```
-yarn test:unit
-```
+The project structure contains a basic Vue.js project structure.
+Inside the src folder you can find the components folder.
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Solution approach
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The solution use a component called wizard that show every step
+according requirements.
+
+# Future improvements
+* Add Unit tests.
+* Add terms and conditions as an subwindow instead of a different webpage.
+* Add call to action inside terms and conditiosn to improve user experience.
+* Add e2e tests.
+* Improve keyboard navigation (Currently navigate between wizard steps using `SHIFT + ARROW LEFT` or `SHIFT + ARROW RIGHT`)
+
+### Libraries used
+* Vuex (State Management)
+* whatwg-fetch (Fetch polyfill)
+
+# Used resources
+* Font Awesome 4 (Font Icons)
+* Github Images
