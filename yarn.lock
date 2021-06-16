@@ -7025,9 +7025,9 @@ postcss-value-parser@^4.0.0, postcss-value-parser@^4.0.2:
   integrity sha512-LmeoohTpp/K4UiyQCwuGWlONxXamGzCMtFxLq4W1nZVGIQLYvMCJx3yAF9qyyuFpflABI9yVdtJAqbihOsCsJQ==
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.23, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.23"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.23.tgz#9f9759fad661b15964f3cfc3140f66f1e05eadc1"
-  integrity sha512-hOlMf3ouRIFXD+j2VJecwssTwbvsPGJVMzupptg+85WA+i7MwyrydmQAgY3R+m0Bc0exunhbJmijy8u8+vufuQ==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -9137,6 +9137,11 @@ whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.5:
   integrity sha512-b5lim54JOPN9HtzvK9HFXvBma/rnfFeqsic0hSpjtDbVxR3dJKLc+KB4V6GgiGOvl7CY/KNh8rxSo9DKQrnUEw==
   dependencies:
     iconv-lite "0.4.24"
+
+whatwg-fetch@^3.0.0:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/whatwg-fetch/-/whatwg-fetch-3.6.2.tgz#dced24f37f2624ed0281725d51d0e2e3fe677f8c"
+  integrity sha512-bJlen0FcuU/0EMLrdbJ7zOnW6ITZLrZMIarMUVmdKtsGvZna8vxKYaexICWPfZ8qwf9fzNq+UEIZrnSaApt6RA==
 
 whatwg-mimetype@^2.2.0, whatwg-mimetype@^2.3.0:
   version "2.3.0"
